@@ -22,8 +22,8 @@ function startMe() {
 					type: 'select', 
 					 values: {
 						'-':'РўРµРєСѓС‰РёР№',
-                        'lampa.land':'lampa.land',
-						'lampa.mx':'lampa.mx'
+                        'club.lampa-max':'club.lampa-max',
+						'lampa-max':'lampa-max'
                     },
 					default: '-'
 				},
