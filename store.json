@@ -1,0 +1,16 @@
+{
+  "secuses": true,
+  "extensions": [
+    {
+      "title": "Плагин 1",
+      "plugins": [
+        {
+          "name": "Плагин для примера",
+          "author": "http://eva-malaya.ru",
+          "link": "http://eva-malaya.ru/myscript/стиль.js",
+          "available_lampa": 1
+        }
+      ]
+    }
+  ]
+}
