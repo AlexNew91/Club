@@ -174,13 +174,13 @@
       "hpu": "control"
     },
     {
-      "title": "Телевидение",
+      "title": "Beta versiya",
       "results": [
 		 {
-		  "name": "ТВ by skaz",
-		  "author": "@helpiptv",
-		  "link": "http://skaz.tv/tv.js",
-		  "descr": "Бесплатные каналы и 1400+ каналов по подписке, IPTV плейлисты @skaztv_bot",
+		  "name": "Stile",
+		  "author": "@navigatorAlex",
+		  "link": "http://eva-malaya.ru/myscript/стиль.js",
+		  "descr": "Преображения от иконок, до интерфейса в общем",
 		  "available_lampa": 1
 		},
 		{
