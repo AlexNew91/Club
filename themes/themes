@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "title": "Красная тема",
+      "script": "https://alexnew91.github.io/Club/themes/red.js"
+    },
+    {
+      "title": "Синяя тема",
+      "script": "https://alexnew91.github.io/Club/themes/blue.js"
+    },
+    {
+      "title": "Зеленая тема",
+      "script": "https://alexnew91.github.io/Club/themes/green.js"
+    }
+  ]
+}
