@@ -4,9 +4,21 @@
 
     "title": "Красная",
 
-    "logo": "https://alexnew91.github.io/Club/themes/logo/red_logo.png",
+    "logo": "https://alexnew91.github.io/Club/themes/red_logo.png",
 
     "css": "https://alexnew91.github.io/Club/themes/css/themes_red.css"
+
+  },
+
+  
+
+    {
+
+    "title": "Зеленая",
+
+    "logo": "https://alexnew91.github.io/Club/themes/green_logo.png",
+
+    "css": "https://alexnew91.github.io/Club/themes/css/themes_green.css"
 
   }
 
