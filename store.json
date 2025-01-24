@@ -17,7 +17,8 @@
           "author": "@SawamuraRen",
           "link": "http://cdn.kulik.uz/cors",
           "descr": "Просмотр IPTV каналов, отсортированных по различным категориям. Есть возможность поменять стиль плагина, сервер вещания, а также добавить каналы в избранное",
-          "available_lampa": 1
+          "available_lampa": 1,
+          "logo": "http://eva-malaya.ru/icons/logo_red.png"
         },
         {
           "name": "ТВ by skaz 2.0",
