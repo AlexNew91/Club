@@ -1,35 +1,34 @@
 {
-  "success": true, 
+  "secuses": true,
   "results": [
     {
-      "title": "Beta версия",
+      "title": "Beta versiya",
       "results": [
         {
-          "name": "⭕ Красный стиль",
+          "name": "⭕",
           "author": "@navigatorAlex",
           "link": "http://eva-malaya.ru/myscript/red.js",
           "icon": "http://eva-malaya.ru/icons/logo_red.png",
-          "descr": "Стиль красного цвета для интерфейса",
+          "descr": "Стиль красного цвета",
           "available_lampa": 1
         },
         {
-          "name": "IPTV Плеер",
+          "name": "",
           "author": "@SawamuraRen",
           "link": "http://cdn.kulik.uz/cors",
-          "icon": "http://eva-malaya.ru/icons/logo_red.png", 
-          "descr": "Просмотр IPTV каналов, отсортированных по различным категориям. Есть возможность поменять стиль плагина, сервер вещания, а также добавить каналы в избранное.",
-          "available_lampa": 1
+          "descr": "Просмотр IPTV каналов, отсортированных по различным категориям. Есть возможность поменять стиль плагина, сервер вещания, а также добавить каналы в избранное",
+          "available_lampa": 1,
+          "logo": "http://eva-malaya.ru/icons/logo_red.png"
         },
         {
           "name": "ТВ by skaz 2.0",
           "author": "@helpiptv",
           "link": "http://skaz.tv/tv2.js",
-          "icon": "http://eva-malaya.ru/icons/logo_red.png",
           "descr": "Версия ТВ by skaz плагина на основе IPTV",
           "available_lampa": 1
         }
       ],
-      "hpu": "tv" 
+      "hpu": "tv"
     }
   ]
 }
