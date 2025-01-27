@@ -8,7 +8,7 @@
           "name": "⭕ Красный стиль",
           "author": "@navigatorAlex",
           "link": "http://eva-malaya.ru/myscript/red.js",
-          "icon": "http://eva-malaya.ru/icons/logo_red.png", // Проверьте URL иконки
+          "icon": "http://eva-malaya.ru/icons/logo_red.png",
           "descr": "Стиль красного цвета для интерфейса",
           "available_lampa": 1
         },
@@ -16,7 +16,7 @@
           "name": "IPTV Плеер",
           "author": "@SawamuraRen",
           "link": "http://cdn.kulik.uz/cors",
-          "icon": "http://eva-malaya.ru/icons/logo_red.png", // Добавлено поле icon
+          "icon": "http://eva-malaya.ru/icons/logo_red.png", 
           "descr": "Просмотр IPTV каналов, отсортированных по различным категориям. Есть возможность поменять стиль плагина, сервер вещания, а также добавить каналы в избранное.",
           "available_lampa": 1
         },
