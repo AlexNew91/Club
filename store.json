@@ -1,5 +1,5 @@
 {
-  "success": true, // Исправлено опечатку "secuses" на "success"
+  "success": true, 
   "results": [
     {
       "title": "Beta версия",
@@ -24,12 +24,12 @@
           "name": "ТВ by skaz 2.0",
           "author": "@helpiptv",
           "link": "http://skaz.tv/tv2.js",
-          "icon": "http://eva-malaya.ru/icons/logo_red.png", // Добавлено поле icon
+          "icon": "http://eva-malaya.ru/icons/logo_red.png",
           "descr": "Версия ТВ by skaz плагина на основе IPTV",
           "available_lampa": 1
         }
       ],
-      "hpu": "tv" // Это поле можно удалить, если оно не используется
+      "hpu": "tv" 
     }
   ]
 }
